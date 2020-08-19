@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9455bd24-877c-4319-9da9-b68cf2e9a303" name="Default Changelist" comment="" />
+    <list default="true" id="9455bd24-877c-4319-9da9-b68cf2e9a303" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +14,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1923" />
-    <option name="y" value="265" />
-    <option name="width" value="1905" />
-    <option name="height" value="985" />
+    <option name="x" value="2042" />
+    <option name="y" value="57" />
+    <option name="width" value="1493" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -54,19 +56,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584929288819</updated>
-      <workItem from="1584929290341" duration="727000" />
+      <workItem from="1584929290341" duration="1448000" />
+      <workItem from="1585019745044" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="727000" />
+    <option name="totallyTimeSpent" value="1482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" x="690" y="206" width="378" height="637" id="Project" order="2" visible="true" weight="0.12153518" />
+      <window_info active="true" content_ui="combo" x="690" y="206" width="378" height="637" id="Project" order="2" visible="true" weight="0.12313433" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29064587" />
